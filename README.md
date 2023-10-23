@@ -34,7 +34,7 @@ To get started with this project, you will need to follow these steps:
 
 ### Dataset
 
-The dataset used for this project is available at `[/content/drive/MyDrive/Dataset](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset/download?datasetVersionNumber=1)`. Ensure that the dataset is correctly placed in the specified directory or modify the path accordingly.
+The dataset used for this project is available at `(https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset/download?datasetVersionNumber=1)`. Ensure that the dataset is correctly placed in the specified directory or modify the path accordingly.
 
 ### Model Training
 
